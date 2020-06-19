@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd5463d0.chunk.css",
+    "main.js": "/static/js/main.9140134f.chunk.js",
+    "main.js.map": "/static/js/main.9140134f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c5c94ff6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c5c94ff6.js.map",
+    "static/js/2.fcadefc6.chunk.js": "/static/js/2.fcadefc6.chunk.js",
+    "static/js/2.fcadefc6.chunk.js.map": "/static/js/2.fcadefc6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c620e14879a95d8a971f7587f4b3ea9c.js": "/precache-manifest.c620e14879a95d8a971f7587f4b3ea9c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.dd5463d0.chunk.css.map": "/static/css/main.dd5463d0.chunk.css.map",
+    "static/js/2.fcadefc6.chunk.js.LICENSE.txt": "/static/js/2.fcadefc6.chunk.js.LICENSE.txt",
+    "static/media/dancing.gif": "/static/media/dancing.5048d7fd.gif",
+    "static/media/egg-shake.gif": "/static/media/egg-shake.8390f7e7.gif",
+    "static/media/falls.gif": "/static/media/falls.46bc27d5.gif",
+    "static/media/hearts-1.gif": "/static/media/hearts-1.5b77e3f2.gif",
+    "static/media/hearts-2.gif": "/static/media/hearts-2.2d544598.gif",
+    "static/media/monkeys.gif": "/static/media/monkeys.89e5e36a.gif",
+    "static/media/wat.gif": "/static/media/wat.60a7cae8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5c94ff6.js",
+    "static/js/2.fcadefc6.chunk.js",
+    "static/css/main.dd5463d0.chunk.css",
+    "static/js/main.9140134f.chunk.js"
+  ]
+}
